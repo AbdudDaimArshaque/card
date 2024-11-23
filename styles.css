@@ -25,7 +25,7 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    
+     border-radius: 24px;
     color: #ade8f4;
     border-bottom: 5px dashed #ade8f4;
     background-image: url(https://wallpapers.com/images/hd/yasuo-4latdzoymbae5pu4.jpg);
